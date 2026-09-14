@@ -67,4 +67,4 @@ TODO
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+Code and model weights are licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. Free for academic and research use.
