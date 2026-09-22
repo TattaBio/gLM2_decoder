@@ -63,7 +63,19 @@ Pseudo-likelihood scoring is optional because it adds extra model passes. Add
 
 ## Citation
 
-TODO
+```
+@article {Lanclos2026.09.11.750945,
+    author = {Lanclos, Nathan and Ibrahim, Kyrellos and Cornman, Andre and Huang, Marco and Gill, Vikram and Jain, Aalini and Abraham, Jonathan and Gin, Jennifer and Chen, Yan and Petzold, Christopher and Baerwald, Justin and Kortemme, Tanja and Keasling, Jay and Hwang, Yunha},
+    title = {Generative Design of New-to-nature Biosynthetic Assembly Lines with Genomic Language Modeling},
+    elocation-id = {2026.09.11.750945},
+    year = {2026},
+    doi = {10.64898/2026.09.11.750945},
+    publisher = {Cold Spring Harbor Laboratory},
+    URL = {https://www.biorxiv.org/content/early/2026/09/21/2026.09.11.750945},
+    eprint = {https://www.biorxiv.org/content/early/2026/09/21/2026.09.11.750945.full.pdf},
+    journal = {bioRxiv}
+}
+```
 
 ## License
 
